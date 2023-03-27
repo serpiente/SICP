@@ -1,8 +1,0 @@
-{
-  "triggerTaskOnSave.tasks": {
-    "lint-racket": [
-      "*.rkt",
-    ],
-  },
-  "editor.formatOnSave": true
-}
